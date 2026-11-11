@@ -4,10 +4,10 @@ Utilities for using a personal computer at school. Custom-made. exe files and so
 To get these utilities, click the "Releases" section on the right and follow the instructions for the latest one.
 
 
-Instructions for [latest release](https://github.com/jahames1111/jahamespackage/releases)
+# Instructions for [latest release](https://github.com/jahames1111/jahamespackage/releases)
 
 
-# -OPN.exe - port of Psiphon specifically built to give unrestricted internet access on school WiFI. Edited in VS Code.
+## -OPN.exe - port of Psiphon specifically built to give unrestricted internet access on school WiFI. Edited in VS Code.
 Instructions for use:
 1. Download and unzip OPN.zip
 2. Inside, you will find OPN.exe. Double-click this
@@ -20,7 +20,7 @@ Instructions for use:
 
 
 
-# -cleandesktop.exe - custom-made file to remove duplicates of Google Classroom and Google Drive that are created by opening a school Chrome profile
+## -cleandesktop.exe - custom-made file to remove duplicates of Google Classroom and Google Drive that are created by opening a school Chrome profile
 1. Download cleandesktop.exe and run it
 2. It will start deleting all but one of each Google Drive and Google Classroom shortcut on your desktop.
 3. If you want to change settings, make it stop running, or uninstall, click the little arrow in the bottom right to show the widgets.
