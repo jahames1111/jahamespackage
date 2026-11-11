@@ -4,7 +4,7 @@ Utilities for using a personal computer at school. Custom-made. exe files and so
 To get these utilities, click the "Releases" section on the right and follow the instructions for the latest one.
 
 
-Instructions for (latest release){https://github.com/jahames1111/jahamespackage/releases}
+Instructions for [latest release](https://github.com/jahames1111/jahamespackage/releases)
 
 
 # -OPN.exe - port of Psiphon specifically built to give unrestricted internet access on school WiFI. Edited in VS Code.
