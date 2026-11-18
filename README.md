@@ -1,51 +1,52 @@
 # jahamespackage
-Utilities for using a personal computer at school. Custom-made. exe files and source code.
 
-To get these utilities, click the "Releases" section on the right and follow the instructions for the latest one.
+Custom-made Windows utilities for using a personal computer at school.
 
+## Downloads
 
-# Instructions for [latest release](https://github.com/jahames1111/jahamespackage/releases)
+Download the latest release from the [Releases page](https://github.com/jahames1111/jahamespackage/releases).
 
+## OPN
 
-## -OPN.exe - port of Psiphon specifically built to give unrestricted internet access on school WiFI. Edited in VS Code.
-Instructions for use:
-1. Download and unzip OPN.zip
-2. Inside, you will find OPN.exe. Double-click this
-3. Click Connect when the window appears
-4. You can quickly open it at any time from the widget menu
+**OPN.exe** is a port of Psiphon created to provide unrestricted internet access on school Wi-Fi.
 
+### Installation
 
+1. Download and unzip `OPN.zip`.
+2. Open the extracted folder.
+3. Double-click `OPN.exe`.
+4. When the connection window appears, click **Connect**.
 
-<img width="373" height="287" alt="image" src="https://github.com/user-attachments/assets/fac26665-6437-4b8a-af05-39f6a2c841e4" />
+Once running, OPN can be opened from the Windows widget menu.
 
+<img width="373" height="287" alt="OPN application" src="https://github.com/user-attachments/assets/fac26665-6437-4b8a-af05-39f6a2c841e4" />
 
+## Clean Desktop
 
-## -cleandesktop.exe - custom-made file to remove duplicates of Google Classroom and Google Drive that are created by opening a school Chrome profile
-1. Download cleandesktop.exe and run it
-2. It will start deleting all but one of each Google Drive and Google Classroom shortcut on your desktop.
-3. If you want to change settings, make it stop running, or uninstall, click the little arrow in the bottom right to show the widgets.
+**cleandesktop.exe** removes duplicate Google Classroom and Google Drive shortcuts created when using a school-managed Chrome profile.
 
+### Installation and Use
 
-<img width="235" height="185" alt="image" src="https://github.com/user-attachments/assets/0f6a11a7-e2c8-491e-b78a-06924776649c" />
-
-
-
-
-4. Then, right-click this icon. The context menu will appear.
+1. Download `cleandesktop.exe`.
+2. Double-click the file to run it.
+3. The utility will keep one copy of each Google Drive and Google Classroom shortcut and remove the duplicates.
 
 
 
+### Manage or Uninstall
 
-<img width="240" height="113" alt="image" src="https://github.com/user-attachments/assets/bc587b73-d7ee-46fd-ae23-dcaa65cadc86" />
+Click the arrow in the bottom-right corner of the screen to open the widgets menu. Then, right-click the Clean Desktop icon to open its context menu.
 
+<img width="235" height="185" alt="Clean Desktop running" src="https://github.com/user-attachments/assets/0f6a11a7-e2c8-491e-b78a-06924776649c" />
 
+<img width="240" height="113" alt="Clean Desktop context menu" src="https://github.com/user-attachments/assets/bc587b73-d7ee-46fd-ae23-dcaa65cadc86" />
 
-Thanks for using! If you have any questions or comments, feel free to start a new issue on the Issues tab at the top of this page.
+## Screenshots
 
+<img width="1103" height="859" alt="Application screenshot" src="https://github.com/user-attachments/assets/61d79a80-14db-4887-a065-64a433a10b55" />
 
+<img width="322" height="190" alt="Application screenshot" src="https://github.com/user-attachments/assets/59ce4604-19c9-4ff7-92e9-cc0ca93687ad" />
 
-# Images
+## Support
 
-
-<img width="1103" height="859" alt="image" src="https://github.com/user-attachments/assets/61d79a80-14db-4887-a065-64a433a10b55" />
-<img width="322" height="190" alt="image" src="https://github.com/user-attachments/assets/59ce4604-19c9-4ff7-92e9-cc0ca93687ad" />
+If you have a question or encounter a problem, [open a new issue](https://github.com/jahames1111/jahamespackage/issues).
